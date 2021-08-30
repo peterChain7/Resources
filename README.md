@@ -10,4 +10,4 @@
      1.  open https://pastebin.com/
      2.  paste your payload
      3.  create new paste 
-     4. now you have link in the url
+     4.  now you have link in the url
