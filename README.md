@@ -2,7 +2,9 @@
   1. https://infosecwriteups.com/how-to-get-started-into-bug-bounty-1be52b3064e0
   2. https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters
   3. https://infosecwriteups.com/
-  4. https://crt.sh/  a tool for domain enumeration
+  4. https://crt.sh/ 
+         
+          a tool for domain enumeration
   5. https://pastebin.com/ <br>
     You can host your file online if you find an RFI to Exploit the targert
     
