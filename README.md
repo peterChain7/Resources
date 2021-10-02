@@ -13,3 +13,6 @@
      2.  paste your payload
      3.  create new paste 
      4.  now you have link in the url
+   6. https://www.hackingarticles.in/file-transfer-cheatsheet-windows-and-linux/
+            
+          awesome file transfer methodology
