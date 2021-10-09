@@ -16,3 +16,9 @@
    6. https://www.hackingarticles.in/file-transfer-cheatsheet-windows-and-linux/
             
           awesome file transfer methodology
+   7. Exploiting forced authentication in windows to steal password 
+      * https://www.ired.team/offensive-security/initial-access/t1187-forced-authentication
+      <br>
+       listening hashes with responder
+                 
+             sudo responder -I <yourinterface>
