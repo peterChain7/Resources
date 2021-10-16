@@ -22,3 +22,6 @@
        listening hashes with responder
                  
              sudo responder -I <yourinterface>
+8. Python sources to study about cyberscript
+
+      * https://www.thepythoncode.com/topic/ethical-hacking
