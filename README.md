@@ -25,3 +25,5 @@
 8. Python sources to study about cyberscript
 
       * https://www.thepythoncode.com/topic/ethical-hacking
+9. Enumeration Skills
+     * https://www.knowledgehut.com/blog/security/enumeration-in-ethical-hacking
