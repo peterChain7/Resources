@@ -33,4 +33,4 @@
    
 11. What to do when you are stuck
 
-    *https://www.hackerone.com/ethical-hacker/What-To-Do-When-You-Are-Stuck-Hacking
+    * https://www.hackerone.com/ethical-hacker/What-To-Do-When-You-Are-Stuck-Hacking
