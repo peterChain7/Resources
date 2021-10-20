@@ -30,5 +30,7 @@
 10. Mongodb and NO sql Sqli injection
    * https://blog.0daylabs.com/2016/09/05/mongo-db-password-extraction-mmactf-100/
    * https://blog.websecurify.com/2014/08/hacking-nodejs-and-mongodb.html
+   
 11. What to do when you are stuck
+
     *https://www.hackerone.com/ethical-hacker/What-To-Do-When-You-Are-Stuck-Hacking
