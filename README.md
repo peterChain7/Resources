@@ -37,3 +37,6 @@
 12. Learning HOw APi works in modern web application
     
        * https://tray.io/blog/how-do-apis-work
+13. The good advice from bughunter
+      
+       * https://medium.com/swlh/how-to-get-into-bug-bounties-383266799832
