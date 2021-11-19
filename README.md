@@ -72,3 +72,6 @@ We've gathered some useful resources to get your started on your bug bounty jour
 - dee-see's resources for Android Hacking https://blog.deesee.xyz/android/security/2020/01/13/android-application-hacking-resources.html
 - hacker101 videos https://www.hacker101.com/videos
 
+13. Os command injections
+      
+       * https://cobalt.io/blog/a-pentesters-guide-to-code-injection
