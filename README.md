@@ -75,3 +75,6 @@ We've gathered some useful resources to get your started on your bug bounty jour
 13. Os command injections
       
        * https://cobalt.io/blog/a-pentesters-guide-to-code-injection
+14. Web application Vulnerabilities
+      
+       * https://securityscorecard.com/blog/common-web-application-vulnerabilities-explained
