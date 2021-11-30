@@ -78,3 +78,6 @@ We've gathered some useful resources to get your started on your bug bounty jour
 14. Web application Vulnerabilities
       
        * https://securityscorecard.com/blog/common-web-application-vulnerabilities-explained
+15. About CVE's
+      
+       * https://securityscorecard.com/blog/what-are-common-vulnerabilities-and-exposures
