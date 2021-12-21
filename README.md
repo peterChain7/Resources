@@ -81,3 +81,6 @@ We've gathered some useful resources to get your started on your bug bounty jour
 15. About CVE's
       
        * https://securityscorecard.com/blog/what-are-common-vulnerabilities-and-exposures
+16. Penterster Guide
+   
+       * https://medium.com/@hninja049/guide-for-pentester-labs-xss-710a47871f71
