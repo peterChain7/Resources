@@ -84,3 +84,7 @@ We've gathered some useful resources to get your started on your bug bounty jour
 16. Penterster Guide
    
        * https://medium.com/@hninja049/guide-for-pentester-labs-xss-710a47871f71
+17. BuGHUNTING 
+
+      * https://medium.com/swlh/mastering-the-skills-of-bug-bounty-2201eb6a9f4
+      *  OUT OF SCOPE BUT MAYBE APPLIED https://dev.to/amyoulton/how-to-brand-yourself-as-a-developer-397b
