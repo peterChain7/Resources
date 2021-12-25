@@ -88,3 +88,6 @@ We've gathered some useful resources to get your started on your bug bounty jour
 
       * https://medium.com/swlh/mastering-the-skills-of-bug-bounty-2201eb6a9f4
       *  OUT OF SCOPE BUT MAYBE APPLIED https://dev.to/amyoulton/how-to-brand-yourself-as-a-developer-397b
+18. A collection of hscking resources
+
+     * https://infosecsanyam.medium.com/bug-bounty-methodology-ttp-tactics-techniques-and-procedures-v-2-0-2ccd9d7eb2e2
