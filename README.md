@@ -16,6 +16,10 @@
    6. https://www.hackingarticles.in/file-transfer-cheatsheet-windows-and-linux/
             
           awesome file transfer methodology
+          
+        usig base64 in target machine.. Then simply to machine
+        
+          base64 -w0 gesture.key
    7. Exploiting forced authentication in windows to steal password 
       * https://www.ired.team/offensive-security/initial-access/t1187-forced-authentication
       <br>
