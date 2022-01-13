@@ -17,7 +17,8 @@
             
           awesome file transfer methodology
           
-        usig base64 in target machine.. Then simply to machine
+        usig base64 in target machine.. Then simply to your machine  and return it back to base64.
+        it is used mostlly when the system has no `wget` `curl` or any tool to transfer file.
         
           base64 -w0 gesture.key
    7. Exploiting forced authentication in windows to steal password 
