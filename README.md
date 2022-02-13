@@ -96,3 +96,6 @@ We've gathered some useful resources to get your started on your bug bounty jour
 18. A collection of hacking resources
 
      * https://infosecsanyam.medium.com/bug-bounty-methodology-ttp-tactics-techniques-and-procedures-v-2-0-2ccd9d7eb2e2
+19. Enumeration and exploitation
+    
+     * https://www.hucerc.com/cerc-events/basic-hands-on-cybersecurity-skills/skill11-enumeration-and-exploitation/
