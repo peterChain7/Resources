@@ -99,3 +99,6 @@ We've gathered some useful resources to get your started on your bug bounty jour
 19. Enumeration and exploitation
     
      * https://www.hucerc.com/cerc-events/basic-hands-on-cybersecurity-skills/skill11-enumeration-and-exploitation/
+20. OXDF STUFFS
+   
+      * https://0xdf.gitlab.io/tags#oscp
