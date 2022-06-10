@@ -102,3 +102,7 @@ We've gathered some useful resources to get your started on your bug bounty jour
 20. OXDF STUFFS
    
       * https://0xdf.gitlab.io/tags#oscp
+21. active directory resources 
+     
+      * https://cheatsheet.haax.fr/windows-systems/exploitation/kerberos/
+      
