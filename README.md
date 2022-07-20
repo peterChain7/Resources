@@ -108,3 +108,7 @@ We've gathered some useful resources to get your started on your bug bounty jour
 22. Blue team sources
 
       * https://cybersecurity.att.com/resource-center/ebook/insider-guide-to-incident-response/incident-response-tools
+23. IP address location
+
+     * https://ipstack.com/
+     * 
