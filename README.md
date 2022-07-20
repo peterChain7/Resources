@@ -105,4 +105,6 @@ We've gathered some useful resources to get your started on your bug bounty jour
 21. active directory resources 
      
       * https://cheatsheet.haax.fr/windows-systems/exploitation/kerberos/
-      
+22. Blue team sources
+
+      * https://cybersecurity.att.com/resource-center/ebook/insider-guide-to-incident-response/incident-response-tools
